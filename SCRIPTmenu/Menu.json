@@ -1,0 +1,37 @@
+{
+    "version": "v1.0",
+    "scripts": [
+        {
+            "name": "Script A",
+            "url": "https://link-para-seu-script-a"
+        },
+        {
+            "name": "Script B",
+            "url": "https://link-para-seu-script-b"
+        }
+    ],
+    "combos": [
+        {
+            "name": "Combo 1",
+            "url": "https://link-para-seu-combo-1"
+        },
+        {
+            "name": "Combo 2",
+            "url": "https://link-para-seu-combo-2"
+        }
+    ],
+    "addons": [
+        {
+            "name": "Addon A",
+            "url": "https://link-para-seu-addon-a"
+        },
+        {
+            "name": "Addon B",
+            "url": "https://link-para-seu-addon-b"
+        }
+    ],
+    "telegram": {
+        "name": "Canal Telegram",
+        "url": "https://t.me/BLACKSHEEP_B"
+    }
+}
