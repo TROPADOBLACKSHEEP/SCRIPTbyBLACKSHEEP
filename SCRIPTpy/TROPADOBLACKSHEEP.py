@@ -60,7 +60,7 @@ class TelaTerminal(Screen):
 class TelaChecker(Screen):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
-        self.versao_local = "v1.3"
+        self.versao_local = "v1.4"
         self.url_menu_json = 'https://raw.githubusercontent.com/TROPADOBLACKSHEEP/SCRIPTbyBLACKSHEEP/refs/heads/main/SCRIPTversion/version.json'
         self.layout = BoxLayout(orientation='vertical', padding=15)
 
