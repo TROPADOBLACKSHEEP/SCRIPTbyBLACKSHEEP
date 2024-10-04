@@ -1,4 +1,4 @@
-Aplicativo IPTV Gerenciador de Scripts
+8Aplicativo IPTV Gerenciador de Scripts
 
 Este aplicativo foi desenvolvido para facilitar o gerenciamento e download de scripts, combos e addons relacionados ao IPTV, proporcionando uma interface intuitiva e acessível.
 
@@ -17,22 +17,14 @@ Pré-requisitos
 
 Antes de executar o aplicativo, certifique-se de ter o Python 3.11 ou superior instalado em seu sistema, junto com os seguintes pacotes:
 
-requests
+##requests
 
-kivy
+##kivy
 
 
 Instalação dos Pacotes Necessários
 
 O aplicativo verifica automaticamente se os pacotes necessários estão instalados. Caso contrário, ele tenta instalá-los utilizando o pip.
-
-pip install requests kivy
-
-Executando o Aplicativo
-
-Para executar o aplicativo, basta executar o script principal:
-
-python seu_script.py
 
 Estrutura do Código
 
@@ -62,9 +54,4 @@ Este projeto está licenciado sob a MIT License.
 Autor
 
 Desenvolvido por BLACKSHEEP_B. Para mais informações e suporte, acesse o canal do Telegram: BLACKSHEEP_B.
-
-
----
-
-Sinta-se à vontade para adaptar este README conforme necessário para se adequar ao seu projeto específico.
 
