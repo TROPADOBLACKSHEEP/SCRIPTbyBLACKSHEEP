@@ -22,7 +22,7 @@
 </head>
 <body>
 
-<img src="https://raw.githubusercontent.com/TROPADOBLACKSHEEP/SCRIPTbyBLACKSHEEP/refs/heads/main/SCRIPTimage/SCRIPT-BY-BLACKSHEEP-02-10-2024.png" alt="Aplicativo IPTV Gerenciador de Scripts">
+<img src="https://raw.githubusercontent.com/TROPADOBLACKSHEEP/SCRIPTbyBLACKSHEEP/refs/heads/main/SCRIPTimage/SCRIPT-BY-BLACKSHEEP-04-10-2024%20(2).png" alt="Aplicativo IPTV Gerenciador de Scripts">
 
 <h1>APLICATIVO IPTV GERENCIADOR DE SCRIPTS</h1>
 <p>Este aplicativo foi desenvolvido para facilitar o gerenciamento e download de scripts, combos e addons relacionados ao IPTV, proporcionando uma interface intuitiva e acessível.</p>
