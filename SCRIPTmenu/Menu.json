@@ -2,12 +2,12 @@
     "version": "v1.4",
     "scripts": [
         {
-            "name": "Script A",
-            "url": "https://link-para-seu-script-a"
+            "name": "INFOIPTV",
+            "url": "https://raw.githubusercontent.com/TROPADOBLACKSHEEP/SCRIPTbyBLACKSHEEP/refs/heads/main/SCRITPfile/infoiptv.py"
         },
         {
-            "name": "Script B",
-            "url": "https://link-para-seu-script-b"
+            "name": "TVE",
+            "url": "https://github.com/TROPADOBLACKSHEEP/SCRIPTbyBLACKSHEEP/blob/main/SCRITPfile/TvExpress-1.2enc.py"
         }
     ],
     "combos": [
