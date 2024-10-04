@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/TROPADOBLACKSHEEP/SCRIPTbyBLACKSHEEP/refs/heads/main/SCRIPTimage/SCRIPT-BY-BLACKSHEEP-02-10-2024.png" width="200" />
+<img src="https://raw.githubusercontent.com/TROPADOBLACKSHEEP/SCRIPTbyBLACKSHEEP/refs/heads/main/SCRIPTimage/SCRIPT-BY-BLACKSHEEP-02-10-2024.png" width="600" />
 
 
 APLICATIVO IPTV GERENCIADOR DE SCRIPTS
