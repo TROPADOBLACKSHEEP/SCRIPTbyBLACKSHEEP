@@ -1,8 +1,11 @@
-Aplicativo IPTV Gerenciador de Scripts
+<img src="https://raw.githubusercontent.com/TROPADOBLACKSHEEP/SCRIPTbyBLACKSHEEP/refs/heads/main/SCRIPTimage/SCRIPT-BY-BLACKSHEEP-02-10-2024.png" width="200" />
+
+
+APLICATIVO IPTV GERENCIADOR DE SCRIPTS
 
 Este aplicativo foi desenvolvido para facilitar o gerenciamento e download de scripts, combos e addons relacionados ao IPTV, proporcionando uma interface intuitiva e acessível.
 
-Funcionalidades
+FUNCIONALIDADES
 
 Verificação de Atualizações: O aplicativo verifica automaticamente se há novas versões do script disponível.
 
@@ -13,16 +16,16 @@ Interface Amigável: Navegue facilmente entre as funcionalidades e recursos disp
 Integração com Telegram: Acesse rapidamente a comunidade para suporte e novidades.
 
 
-Pré-requisitos
+PRÉ-REQUISITO
 
 Antes de executar o aplicativo, certifique-se de ter o Python 3.11 ou superior instalado em seu sistema, junto com os seguintes pacotes:
 
-##requests
+requests
 
-##kivy
+kivy
 
 
-Instalação dos Pacotes Necessários
+INSTALAÇÃO DOS PACOTES NECESSÁRIOS
 
 O aplicativo verifica automaticamente se os pacotes necessários estão instalados. Caso contrário, ele tenta instalá-los utilizando o pip.
 
@@ -36,22 +39,22 @@ GerenciadorTela: Controla a navegação entre diferentes telas.
 
 TelaChecker: Tela principal que verifica atualizações e permite o download de scripts.
 
-TelaTerminal: Tela que exibe um terminal para feedback de operações.
+TELATERMINAL: Tela que exibe um terminal para feedback de operações.
 
 
-Download e Atualizações
+DOWNLOAD e ATUALIZAÇÕES
 
 O aplicativo baixa a versão mais recente do script diretamente do GitHub. Caso uma nova versão seja detectada, o usuário é notificado e pode optar por atualizar.
 
-Contribuição
+CONTRIBUIÇÃO
 
 Contribuições são bem-vindas! Se você deseja contribuir para o desenvolvimento deste projeto, por favor, siga as etapas padrão de fork, criação de branch, e pull request.
 
-Licença
+LICENÇA
 
 Este projeto está licenciado sob a MIT License.
 
-Autor
+AUTOR
 
 Desenvolvido por BLACKSHEEP_B. Para mais informações e suporte, acesse o canal do Telegram: BLACKSHEEP_B.
 
