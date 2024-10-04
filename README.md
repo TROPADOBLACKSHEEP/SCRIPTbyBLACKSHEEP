@@ -1,4 +1,4 @@
-8Aplicativo IPTV Gerenciador de Scripts
+Aplicativo IPTV Gerenciador de Scripts
 
 Este aplicativo foi desenvolvido para facilitar o gerenciamento e download de scripts, combos e addons relacionados ao IPTV, proporcionando uma interface intuitiva e acessível.
 
